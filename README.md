@@ -1,71 +1,18 @@
-[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/intro.gif" alt="👋 Hi there! I'm Mohamed Taha Elkhoudimi" title="👋 Hi there! I'm Mohamed Taha Elkhoudimi"/>](https://MohamedElkhoudimi.com/)
+# 💫 About Me:
+- 🚀 𝙸 𝚋𝚞𝚒𝚕𝚍 𝚍𝚒𝚐𝚒𝚝𝚊𝚕 𝚙𝚛𝚘𝚍𝚞𝚌𝚝𝚜 𝚊𝚝 𝚝𝚑𝚎 𝚒𝚗𝚝𝚎𝚛𝚜𝚎𝚌𝚝𝚒𝚘𝚗 𝚘𝚏 𝚙𝚛𝚘𝚍𝚞𝚌𝚝 𝚍𝚎𝚜𝚒𝚐𝚗 𝚊𝚗𝚍 𝙰𝙸<br>- 💼 𝙵𝚘𝚞𝚗𝚍𝚎𝚛 & 𝙿𝚛𝚘𝚍𝚞𝚌𝚝 𝙻𝚎𝚊𝚍 𝚊𝚝 [𝙰𝚜𝚝𝚛𝚊𝚂𝚊𝚐𝚎](https://MohamedElkhoudimi.com) 𝚊𝚗𝚍 [𝙷𝚒𝚛𝚎𝚂𝚝𝚞𝚍𝚎𝚗𝚝](https://MohamedElkhoudimi.com)<br>- 🎯 𝙵𝚘𝚌𝚞𝚜𝚎𝚍 𝚘𝚗 𝚙𝚛𝚊𝚌𝚝𝚒𝚌𝚊𝚕 𝚙𝚛𝚘𝚍𝚞𝚌𝚝 𝚠𝚘𝚛𝚔 𝚝𝚑𝚊𝚝 𝚌𝚛𝚎𝚊𝚝𝚎𝚜 𝚖𝚎𝚊𝚜𝚞𝚛𝚊𝚋𝚕𝚎 𝚒𝚖𝚙𝚊𝚌𝚝<br>- 💪 𝚂𝚝𝚛𝚎𝚗𝚐𝚝𝚑𝚜: 𝙿𝚛𝚘𝚍𝚞𝚌𝚝 𝚝𝚑𝚒𝚗𝚔𝚒𝚗𝚐, 𝚝𝚎𝚌𝚑𝚗𝚒𝚌𝚊𝚕 𝚙𝚛𝚘𝚝𝚘𝚝𝚢𝚙𝚒𝚗𝚐, 𝚞𝚜𝚎𝚛 𝚛𝚎𝚜𝚎𝚊𝚛𝚌𝚑, 𝚌𝚕𝚎𝚊𝚛 𝚛𝚘𝚊𝚍𝚖𝚊𝚙𝚜<br>- 🌐 𝙴𝚡𝚙𝚎𝚛𝚒𝚎𝚗𝚌𝚎: 𝙿𝚛𝚘𝚍𝚞𝚌𝚝 𝚖𝚊𝚗𝚊𝚐𝚎𝚛 𝚛𝚘𝚕𝚎𝚜 & 𝚎𝚊𝚛𝚕𝚢-𝚜𝚝𝚊𝚐𝚎 𝚏𝚘𝚞𝚗𝚍𝚎𝚛 𝚠𝚘𝚛𝚔 𝚠𝚒𝚝𝚑 𝚛𝚎𝚖𝚘𝚝𝚎 𝚝𝚎𝚊𝚖𝚜<br>- 🖥 𝙲𝚑𝚎𝚌𝚔 𝚘𝚞𝚝 𝚖𝚢 [𝚙𝚘𝚛𝚝𝚏𝚘𝚕𝚒𝚘](https://MohamedElkhoudimi.com) 𝚠𝚒𝚝𝚑 𝚊𝚗 𝙾𝚂-𝚜𝚝𝚢𝚕𝚎 𝚍𝚎𝚜𝚔𝚝𝚘𝚙 𝚄𝙸!
 
-![visitors](https://vbr.nathanchung.dev/badge?page_id=MohamedElkhoudimi.MohamedElkhoudimi&color=00cf00)
 
-*𝙻𝚊𝚜𝚝 𝚖𝚊𝚗𝚞𝚊𝚕𝚕𝚢 𝚞𝚙𝚍𝚊𝚝𝚎𝚍:* `2025-11-16`
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Imtahae) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mtk1606/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Mokhoudimi@gmail.com) 
 
-## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
-- 🚀 𝙸 𝚋𝚞𝚒𝚕𝚍 𝚍𝚒𝚐𝚒𝚝𝚊𝚕 𝚙𝚛𝚘𝚍𝚞𝚌𝚝𝚜 𝚊𝚝 𝚝𝚑𝚎 𝚒𝚗𝚝𝚎𝚛𝚜𝚎𝚌𝚝𝚒𝚘𝚗 𝚘𝚏 𝚙𝚛𝚘𝚍𝚞𝚌𝚝 𝚍𝚎𝚜𝚒𝚐𝚗 𝚊𝚗𝚍 𝙰𝙸
-- 💼 𝙵𝚘𝚞𝚗𝚍𝚎𝚛 & 𝙿𝚛𝚘𝚍𝚞𝚌𝚝 𝙻𝚎𝚊𝚍 𝚊𝚝 [𝙰𝚜𝚝𝚛𝚊𝚂𝚊𝚐𝚎](https://MohamedElkhoudimi.com) 𝚊𝚗𝚍 [𝙷𝚒𝚛𝚎𝚂𝚝𝚞𝚍𝚎𝚗𝚝](https://MohamedElkhoudimi.com)
-- 🎯 𝙵𝚘𝚌𝚞𝚜𝚎𝚍 𝚘𝚗 𝚙𝚛𝚊𝚌𝚝𝚒𝚌𝚊𝚕 𝚙𝚛𝚘𝚍𝚞𝚌𝚝 𝚠𝚘𝚛𝚔 𝚝𝚑𝚊𝚝 𝚌𝚛𝚎𝚊𝚝𝚎𝚜 𝚖𝚎𝚊𝚜𝚞𝚛𝚊𝚋𝚕𝚎 𝚒𝚖𝚙𝚊𝚌𝚝
-- 💪 𝚂𝚝𝚛𝚎𝚗𝚐𝚝𝚑𝚜: 𝙿𝚛𝚘𝚍𝚞𝚌𝚝 𝚝𝚑𝚒𝚗𝚔𝚒𝚗𝚐, 𝚝𝚎𝚌𝚑𝚗𝚒𝚌𝚊𝚕 𝚙𝚛𝚘𝚝𝚘𝚝𝚢𝚙𝚒𝚗𝚐, 𝚞𝚜𝚎𝚛 𝚛𝚎𝚜𝚎𝚊𝚛𝚌𝚑, 𝚌𝚕𝚎𝚊𝚛 𝚛𝚘𝚊𝚍𝚖𝚊𝚙𝚜
-- 🌐 𝙴𝚡𝚙𝚎𝚛𝚒𝚎𝚗𝚌𝚎: 𝙿𝚛𝚘𝚍𝚞𝚌𝚝 𝚖𝚊𝚗𝚊𝚐𝚎𝚛 𝚛𝚘𝚕𝚎𝚜 & 𝚎𝚊𝚛𝚕𝚢-𝚜𝚝𝚊𝚐𝚎 𝚏𝚘𝚞𝚗𝚍𝚎𝚛 𝚠𝚘𝚛𝚔 𝚠𝚒𝚝𝚑 𝚛𝚎𝚖𝚘𝚝𝚎 𝚝𝚎𝚊𝚖𝚜
-- 🖥 𝙲𝚑𝚎𝚌𝚔 𝚘𝚞𝚝 𝚖𝚢 [𝚙𝚘𝚛𝚝𝚏𝚘𝚕𝚒𝚘](https://MohamedElkhoudimi.com) 𝚠𝚒𝚝𝚑 𝚊𝚗 𝙾𝚂-𝚜𝚝𝚢𝚕𝚎 𝚍𝚎𝚜𝚔𝚝𝚘𝚙 𝚄𝙸!
-
-## ⬆ 𝚆𝚑𝚊𝚝 𝙸'𝚖 𝚞𝚙 𝚝𝚘
-- 🔨 𝙸'𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢...
-```yaml
-- Building AstraSage: intelligent product tools & agent-driven workflows
-- Developing HireStudent: marketplace connecting students with paid short-term work
-- Working on Project Life: personal system for consistency & continuous improvement
-- Creating MVPs that show value fast
-```
-- 🎯 𝙲𝚞𝚛𝚛𝚎𝚗𝚝 𝚏𝚘𝚌𝚞𝚜:
-	- 𝙿𝚛𝚘𝚍𝚞𝚌𝚝 𝚖𝚊𝚗𝚊𝚐𝚎𝚖𝚎𝚗𝚝 & 𝚍𝚒𝚜𝚌𝚘𝚟𝚎𝚛𝚢
-	- 𝙰𝙸 𝚊𝚙𝚙𝚕𝚒𝚎𝚍 𝚝𝚘𝚘𝚕𝚒𝚗𝚐
-	- 𝚁𝚊𝚙𝚒𝚍 𝚙𝚛𝚘𝚝𝚘𝚝𝚢𝚙𝚒𝚗𝚐 𝚠𝚒𝚝𝚑 𝚁𝚎𝚊𝚌𝚝 & 𝙿𝚢𝚝𝚑𝚘𝚗
-	- 𝙳𝚊𝚝𝚊-𝚍𝚛𝚒𝚟𝚎𝚗 𝚎𝚡𝚙𝚎𝚛𝚒𝚖𝚎𝚗𝚝𝚜 & 𝚞𝚜𝚎𝚛 𝚝𝚎𝚜𝚝𝚒𝚗𝚐
-
-## 🚀 𝙿𝚛𝚘𝚓𝚎𝚌𝚝𝚜 𝙸'𝚖 𝙱𝚞𝚒𝚕𝚍𝚒𝚗𝚐
-
-### 𝙰𝚜𝚝𝚛𝚊𝚂𝚊𝚐𝚎
-Intelligent product tools and agent-driven workflows that help small teams deliver proposals, analytics, and client value faster.
-
-### 𝙷𝚒𝚛𝚎𝚂𝚝𝚞𝚍𝚎𝚗𝚝
-A marketplace connecting university students with paid short-term work that matches their skills, time availability, and growth goals.
-
-### 𝙿𝚛𝚘𝚓𝚎𝚌𝚝 𝙻𝚒𝚏𝚎
-A personal system for consistency and continuous improvement driven by daily reflection and small habit changes.
-
-## 🛠 𝚂𝚔𝚒𝚕𝚕𝚜 & 𝚃𝚎𝚌𝚑 𝚂𝚝𝚊𝚌𝚔
-
-**Product & Design**
-- Product management and discovery
-- User research and testing
-- Clear roadmaps and data-driven experiments
-
-**Development**
-- Rapid prototyping with React and Python
-- Backend APIs with FastAPI
-- Basic ML integration
-- Version control and open source collaboration
-
-## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙰𝚌𝚝𝚒𝚟𝚒𝚝𝚢
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
-## 📫 𝙷𝚘𝚠 𝚝𝚘 𝚛𝚎𝚊𝚌𝚑 𝚖𝚎:
-𝙵𝚎𝚎𝚕 𝚏𝚛𝚎𝚎 𝚝𝚘 𝚌𝚘𝚗𝚗𝚎𝚌𝚝 𝚠𝚒𝚝𝚑 𝚖𝚎! 𝙸 𝚠𝚎𝚕𝚌𝚘𝚖𝚎 𝚏𝚎𝚎𝚍𝚋𝚊𝚌𝚔 𝚘𝚗 𝚙𝚛𝚘𝚍𝚞𝚌𝚝 𝚏𝚕𝚘𝚠𝚜, 𝚛𝚎𝚌𝚛𝚞𝚒𝚝𝚎𝚛-𝚏𝚛𝚒𝚎𝚗𝚍𝚕𝚢 𝚙𝚘𝚛𝚝𝚏𝚘𝚕𝚒𝚘 𝚒𝚍𝚎𝚊𝚜, 𝚊𝚗𝚍 𝚜𝚖𝚊𝚕𝚕 𝚌𝚘𝚕𝚕𝚊𝚋𝚘𝚛𝚊𝚝𝚒𝚘𝚗𝚜.
-
-[<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" height="40em" align="center" alt="Connect with Mohamed on LinkedIn" title="Connect with Mohamed on LinkedIn"/>](https://www.linkedin.com/in/mtk1606/)
-📧 **Email:** mokhoudimi@gmail.com
-🌐 **Portfolio:** [MohamedElkhoudimi.com](https://MohamedElkhoudimi.com)
-
-## ⚡ 𝚀𝚞𝚒𝚌𝚔 𝙽𝚘𝚝𝚎𝚜
-- 🖥 𝙱𝚎𝚜𝚝 𝚟𝚒𝚎𝚠𝚎𝚍 𝚘𝚗 𝚍𝚎𝚜𝚔𝚝𝚘𝚙 𝚏𝚘𝚛 𝚝𝚑𝚎 𝚏𝚞𝚕𝚕 𝚒𝚗𝚝𝚎𝚛𝚊𝚌𝚝𝚒𝚟𝚎 𝚎𝚡𝚙𝚎𝚛𝚒𝚎𝚗𝚌𝚎
-- 💬 𝙾𝚙𝚎𝚗 𝚝𝚘 𝚌𝚘𝚕𝚕𝚊𝚋𝚘𝚛𝚊𝚝𝚒𝚘𝚗𝚜 𝚊𝚗𝚍 𝚙𝚛𝚘𝚍𝚞𝚌𝚝 𝚍𝚒𝚜𝚌𝚞𝚜𝚜𝚒𝚘𝚗𝚜
-- 🎯 𝙵𝚘𝚌𝚞𝚜𝚎𝚍 𝚘𝚗 𝚋𝚞𝚒𝚕𝚍𝚒𝚗𝚐 𝚙𝚛𝚘𝚍𝚞𝚌𝚝𝚜 𝚝𝚑𝚊𝚝 𝚖𝚊𝚝𝚝𝚎𝚛
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Type-graphql](https://img.shields.io/badge/-TypeGraphQL-%23C04392?style=for-the-badge) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![nVIDIA](https://img.shields.io/badge/cuda-000000.svg?style=for-the-badge&logo=nVIDIA&logoColor=green) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![ApacheCassandra](https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black) ![Framer](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=mtk1606&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=mtk1606&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mtk1606&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=mtk1606&icon=0&color=0)](https://visitcount.itsvg.in)
 
-*This README was inspired by creative developers in the open source community. Monospaced text from [yaytext.com/monospace](https://yaytext.com/monospace/), visitor badge from [Nathan13888/VisitorBadgeReloaded](https://github.com/Nathan13888/VisitorBadgeReloaded), and GitHub activity action from [jamesgeorge007/github-activity-readme](https://github.com/jamesgeorge007/github-activity-readme).*
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
